@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'StMarie';
+    src: url('StMarie.eot');
+    src: url('StMarie.eot?#iefix') format('embedded-opentype'),
+         url('StMarie.woff2') format('woff2'),
+         url('StMarie.woff') format('woff'),
+         url('StMarie.ttf') format('truetype'),
+         url('StMarie.svg#StMarie') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
